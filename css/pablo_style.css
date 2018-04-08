@@ -1,0 +1,59 @@
+h1 {
+  color: #CA6F8A;
+}
+
+h2 {
+  color: #6B91E3;
+}
+
+.footer p {
+  text-align: center;
+  color: #CA6F8A;
+}
+
+div.weather p:last-child {
+  display: none;
+}
+
+div.jumbotron .container p small {
+  margin-left: 100px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../images/banner.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+div.field-name-post-date {
+  font-size: smaller;
+  color: gray;
+}
+
+div.view-committee-members div.node-committee-member {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+div.view-committee-members div.node-committee-member div.field-name-field-position {
+  font-weight: bold;
+  color: #6b91e3;
+  font-size: 1.5em;
+}
+
+div.view-committee-members div.node-committee-member div.field-name-title h3 {
+  font-size: 1.3em;
+}
+
+body.front div.view-news div.node-promoted {
+  margin-bottom: 2em;
+}
+
+div.more-link {
+  font-style: oblique;
+  font-size: 1.5em;
+}
