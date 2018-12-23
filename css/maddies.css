@@ -33,5 +33,15 @@ h1 {
 }
 
 h2 {
-  color: #CA6F8A
+  color: #CA6F8A;
+}
+
+h3 {
+    color: #6B91E3;
+    font-size: 1.5rem;
+}
+
+h5 {
+    color: #CA6F8A;
+    font-size: 1.2rem;
 }
